@@ -149,7 +149,7 @@ Elevator
 More detailed explanation is in the annotation of the code
 
 
-<img src="https://raw.github.com/suanmiao/ElevatorSystem/master/readme_images/my_friend.jpg" width="300">
+<img src="https://raw.github.com/suanmiao/ElevatorDesign/master/readme_imgs/my_friend.jpg" width="300">
 
 
 Developed By
