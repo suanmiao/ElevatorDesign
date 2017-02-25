@@ -7,6 +7,11 @@ We can spend 30 minutes or 30 hours on this simple and complicated problem :)
 
 In this project, I am trying to investigate the basic requirement, extend these requirement to some more complete use cases, and then design the necessary interface, finally implement the code with Python 
 
+### How to Run
+
+* Python 2.7
+* (Optional) modify the test scheduling task
+* python Simulator.py
 
 ### Required Interface
 
@@ -148,6 +153,7 @@ Elevator
 
 More detailed explanation is in the annotation of the code
 
+Best wishes to you, my friend (content inside the image below :)
 
 <img src="https://raw.github.com/suanmiao/ElevatorDesign/master/readme_imgs/my_friend.jpg" width="300">
 
